@@ -19,3 +19,7 @@ description: >-
 
 ![](.gitbook/assets/unknown.png)
 
+{% page-ref page="osnovnoe/spisok-komand.md" %}
+
+### Полезные ссылки
+
